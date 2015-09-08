@@ -1,0 +1,255 @@
+
+/* Class = "UIButton"; normalTitle = "유아"; ObjectID = "0aU-Jl-E9y"; */
+"0aU-Jl-E9y.normalTitle" = "유아";
+
+/* Class = "UIButton"; normalTitle = " 유아"; ObjectID = "0s0-R3-hTL"; */
+"0s0-R3-hTL.normalTitle" = " 유아";
+
+/* Class = "UILabel"; text = "행사명"; ObjectID = "1cO-tM-Yy0"; */
+"1cO-tM-Yy0.text" = "행사명";
+
+/* Class = "UILabel"; text = "지도"; ObjectID = "2Bg-ER-85d"; */
+"2Bg-ER-85d.text" = "지도";
+
+/* Class = "UILabel"; text = "설정"; ObjectID = "2az-Qc-MdX"; */
+"2az-Qc-MdX.text" = "설정";
+
+/* Class = "UIButton"; normalTitle = "검색"; ObjectID = "31w-l5-4bF"; */
+"31w-l5-4bF.normalTitle" = "검색";
+
+/* Class = "UIButton"; normalTitle = " 초등"; ObjectID = "39i-xu-bUH"; */
+"39i-xu-bUH.normalTitle" = " 초등";
+
+/* Class = "UIButton"; normalTitle = " 중등"; ObjectID = "55a-kE-Wm8"; */
+"55a-kE-Wm8.normalTitle" = " 중등";
+
+/* Class = "UIButton"; normalTitle = "행사전체"; ObjectID = "58B-Xf-P9e"; */
+"58B-Xf-P9e.normalTitle" = "행사전체";
+
+/* Class = "UIButton"; normalTitle = "강연"; ObjectID = "59v-1N-5fF"; */
+"59v-1N-5fF.normalTitle" = "강연";
+
+/* Class = "UILabel"; text = "행사명"; ObjectID = "5OA-3C-LY1"; */
+"5OA-3C-LY1.text" = "행사명";
+
+/* Class = "UILabel"; text = "상세정보"; ObjectID = "5R9-FC-i8t"; */
+"5R9-FC-i8t.text" = "상세정보";
+
+/* Class = "UILabel"; text = "연구개발특구  Innopolis"; ObjectID = "6AV-TV-E66"; */
+"6AV-TV-E66.text" = "연구개발특구  Innopolis";
+
+/* Class = "UIButton"; normalTitle = "전체"; ObjectID = "6Dk-mM-t7l"; */
+"6Dk-mM-t7l.normalTitle" = "전체";
+
+/* Class = "UITableViewController"; title = "Master"; ObjectID = "7bK-jq-Zjz"; */
+"7bK-jq-Zjz.title" = "Master";
+
+/* Class = "UILabel"; text = "행사기간"; ObjectID = "899-aP-pZw"; */
+"899-aP-pZw.text" = "행사기간";
+
+/* Class = "UILabel"; text = "행사장소"; ObjectID = "8C9-rA-Ogn"; */
+"8C9-rA-Ogn.text" = "행사장소";
+
+/* Class = "UILabel"; text = "리스트형"; ObjectID = "9Bf-B7-qkg"; */
+"9Bf-B7-qkg.text" = "리스트형";
+
+/* Class = "UILabel"; text = "년.월"; ObjectID = "9nn-ia-3Qo"; */
+"9nn-ia-3Qo.text" = "년.월";
+
+/* Class = "UILabel"; text = "종료되었습니다"; ObjectID = "BMt-t3-su6"; */
+"BMt-t3-su6.text" = "종료되었습니다";
+
+/* Class = "UILabel"; text = "업데이트 확인"; ObjectID = "D1z-yL-flI"; */
+"D1z-yL-flI.text" = "업데이트 확인";
+
+/* Class = "UILabel"; text = "버전 v1.0 Release"; ObjectID = "F5L-Ch-3zZ"; */
+"F5L-Ch-3zZ.text" = "버전 v1.0 Release";
+
+/* Class = "UILabel"; text = "화면타입설정"; ObjectID = "GaL-ha-2Wp"; */
+"GaL-ha-2Wp.text" = "화면타입설정";
+
+/* Class = "UIButton"; normalTitle = "기타"; ObjectID = "I1L-pS-3vm"; */
+"I1L-pS-3vm.normalTitle" = "기타";
+
+/* Class = "UIButton"; normalTitle = "초등"; ObjectID = "I4j-FY-7Ei"; */
+"I4j-FY-7Ei.normalTitle" = "초등";
+
+/* Class = "UILabel"; text = "행사명"; ObjectID = "ILn-xl-nKS"; */
+"ILn-xl-nKS.text" = "행사명";
+
+/* Class = "UILabel"; text = "날짜"; ObjectID = "Jkd-Xo-84F"; */
+"Jkd-Xo-84F.text" = "날짜";
+
+/* Class = "UILabel"; text = "연구개발특구 대표 연구성과"; ObjectID = "KbJ-Np-0Gn"; */
+"KbJ-Np-0Gn.text" = "연구개발특구 대표 연구성과";
+
+/* Class = "UIButton"; normalTitle = "캠프"; ObjectID = "L44-yi-cas"; */
+"L44-yi-cas.normalTitle" = "캠프";
+
+/* Class = "UIButton"; normalTitle = "고등"; ObjectID = "L4O-Ef-eqt"; */
+"L4O-Ef-eqt.normalTitle" = "고등";
+
+/* Class = "UIButton"; normalTitle = "초등"; ObjectID = "LJD-QS-KJJ"; */
+"LJD-QS-KJJ.normalTitle" = "초등";
+
+/* Class = "UILabel"; text = "행사기간"; ObjectID = "MUK-YA-pKd"; */
+"MUK-YA-pKd.text" = "행사기간";
+
+/* Class = "UILabel"; text = "행사명"; ObjectID = "MXe-Qk-HiL"; */
+"MXe-Qk-HiL.text" = "행사명";
+
+/* Class = "UIButton"; normalTitle = "누구나"; ObjectID = "MgZ-gy-31d"; */
+"MgZ-gy-31d.normalTitle" = "누구나";
+
+/* Class = "UIButton"; normalTitle = " 고등"; ObjectID = "NAI-3H-Cog"; */
+"NAI-3H-Cog.normalTitle" = " 고등";
+
+/* Class = "UILabel"; text = "연구개발특구진흥재단 소개"; ObjectID = "PPj-8T-DZP"; */
+"PPj-8T-DZP.text" = "연구개발특구진흥재단 소개";
+
+/* Class = "UILabel"; text = "이벤트명"; ObjectID = "QRm-Wp-ap6"; */
+"QRm-Wp-ap6.text" = "이벤트명";
+
+/* Class = "UIButton"; normalTitle = "연령별"; ObjectID = "Qdr-4g-Yck"; */
+"Qdr-4g-Yck.normalTitle" = "연령별";
+
+/* Class = "UIButton"; normalTitle = "일반현황"; ObjectID = "Tiy-UE-3Cr"; */
+"Tiy-UE-3Cr.normalTitle" = "일반현황";
+
+/* Class = "UIButton"; normalTitle = " 성인"; ObjectID = "Tp6-Xs-7X3"; */
+"Tp6-Xs-7X3.normalTitle" = " 성인";
+
+/* Class = "UILabel"; text = "연구개발특구"; ObjectID = "Tvw-VT-n5Q"; */
+"Tvw-VT-n5Q.text" = "연구개발특구";
+
+/* Class = "UIButton"; normalTitle = "성인"; ObjectID = "UOU-Sa-ATv"; */
+"UOU-Sa-ATv.normalTitle" = "성인";
+
+/* Class = "UIButton"; normalTitle = "전시"; ObjectID = "Ud4-YB-RgW"; */
+"Ud4-YB-RgW.normalTitle" = "전시";
+
+/* Class = "UILabel"; text = "행사장소"; ObjectID = "VAb-Ag-Dql"; */
+"VAb-Ag-Dql.text" = "행사장소";
+
+/* Class = "UILabel"; text = "행사장소"; ObjectID = "XOv-CS-LyZ"; */
+"XOv-CS-LyZ.text" = "행사장소";
+
+/* Class = "UIButton"; normalTitle = "특구개요"; ObjectID = "XQj-wb-ayt"; */
+"XQj-wb-ayt.normalTitle" = "특구개요";
+
+/* Class = "UILabel"; text = "연구개발특구 소개"; ObjectID = "XTa-jZ-DEs"; */
+"XTa-jZ-DEs.text" = "연구개발특구 소개";
+
+/* Class = "UILabel"; text = "행사기간"; ObjectID = "ZRA-Hp-8gV"; */
+"ZRA-Hp-8gV.text" = "행사기간";
+
+/* Class = "UILabel"; text = "검색결과"; ObjectID = "ab0-JQ-sbn"; */
+"ab0-JQ-sbn.text" = "검색결과";
+
+/* Class = "UIButton"; normalTitle = " 모두다"; ObjectID = "avm-wD-2zY"; */
+"avm-wD-2zY.normalTitle" = " 모두다";
+
+/* Class = "UILabel"; text = "이벤트명"; ObjectID = "c8A-YU-ZML"; */
+"c8A-YU-ZML.text" = "이벤트명";
+
+/* Class = "UILabel"; text = "즐겨찾기"; ObjectID = "d9M-4o-9C9"; */
+"d9M-4o-9C9.text" = "즐겨찾기";
+
+/* Class = "UILabel"; text = "과학톡톡 소개"; ObjectID = "dDa-jd-qb7"; */
+"dDa-jd-qb7.text" = "과학톡톡 소개";
+
+/* Class = "UILabel"; text = "홈페이지 바로가기"; ObjectID = "f2u-FB-xeK"; */
+"f2u-FB-xeK.text" = "홈페이지 바로가기";
+
+/* Class = "UILabel"; text = "타임라인형"; ObjectID = "gyg-XE-fUx"; */
+"gyg-XE-fUx.text" = "타임라인형";
+
+/* Class = "UILabel"; text = "날짜"; ObjectID = "i6u-zY-rFy"; */
+"i6u-zY-rFy.text" = "날짜";
+
+/* Class = "UILabel"; text = "연구개발특구 소개"; ObjectID = "iUq-CW-Kmn"; */
+"iUq-CW-Kmn.text" = "연구개발특구 소개";
+
+/* Class = "UILabel"; text = "종료되었습니다"; ObjectID = "iVe-ZP-dSG"; */
+"iVe-ZP-dSG.text" = "종료되었습니다";
+
+/* Class = "UILabel"; text = "입주기관 견학 안내"; ObjectID = "j85-LD-KRS"; */
+"j85-LD-KRS.text" = "입주기관 견학 안내";
+
+/* Class = "UIButton"; normalTitle = "중등"; ObjectID = "jUU-QT-rdv"; */
+"jUU-QT-rdv.normalTitle" = "중등";
+
+/* Class = "UIButton"; normalTitle = "일반현황"; ObjectID = "jaf-A6-RLu"; */
+"jaf-A6-RLu.normalTitle" = "일반현황";
+
+/* Class = "UILabel"; text = "정부출연기관"; ObjectID = "jsG-XV-mWx"; */
+"jsG-XV-mWx.text" = "정부출연기관";
+
+/* Class = "UILabel"; text = "정부출연기관"; ObjectID = "k4d-AU-KkD"; */
+"k4d-AU-KkD.text" = "정부출연기관";
+
+/* Class = "UIButton"; normalTitle = "전체"; ObjectID = "kBP-bS-OYy"; */
+"kBP-bS-OYy.normalTitle" = "전체";
+
+/* Class = "UIButton"; normalTitle = "행사분류별"; ObjectID = "l5t-lH-gPl"; */
+"l5t-lH-gPl.normalTitle" = "행사분류별";
+
+/* Class = "UILabel"; text = "연구개발특구 연혁"; ObjectID = "o0g-MS-kHh"; */
+"o0g-MS-kHh.text" = "연구개발특구 연혁";
+
+/* Class = "UILabel"; text = "요일"; ObjectID = "pVd-TB-EhR"; */
+"pVd-TB-EhR.text" = "요일";
+
+/* Class = "UIButton"; normalTitle = "누구나"; ObjectID = "q1F-R8-Exl"; */
+"q1F-R8-Exl.normalTitle" = "누구나";
+
+/* Class = "UIButton"; normalTitle = "성인"; ObjectID = "qC1-bF-66Z"; */
+"qC1-bF-66Z.normalTitle" = "성인";
+
+/* Class = "UILabel"; text = "종료되었습니다"; ObjectID = "qbK-RY-UAB"; */
+"qbK-RY-UAB.text" = "종료되었습니다";
+
+/* Class = "UIButton"; normalTitle = "활동"; ObjectID = "r6T-Fc-mWr"; */
+"r6T-Fc-mWr.normalTitle" = "활동";
+
+/* Class = "UIButton"; normalTitle = "중등"; ObjectID = "s4k-aX-3eG"; */
+"s4k-aX-3eG.normalTitle" = "중등";
+
+/* Class = "UILabel"; text = "항목이 존재하지 않습니다."; ObjectID = "sFC-ii-ihi"; */
+"sFC-ii-ihi.text" = "항목이 존재하지 않습니다.";
+
+/* Class = "UIButton"; normalTitle = "특구개요"; ObjectID = "sSC-PY-aFP"; */
+"sSC-PY-aFP.normalTitle" = "특구개요";
+
+/* Class = "UILabel"; text = "종료되었습니다"; ObjectID = "snl-at-j7o"; */
+"snl-at-j7o.text" = "종료되었습니다";
+
+/* Class = "UILabel"; text = "행사시간"; ObjectID = "tW2-Ze-ysx"; */
+"tW2-Ze-ysx.text" = "행사시간";
+
+/* Class = "UITextField"; placeholder = "행사명을 검색하세요"; ObjectID = "uCn-PK-uCQ"; */
+"uCn-PK-uCQ.placeholder" = "행사명을 검색하세요";
+
+/* Class = "UILabel"; text = "전체 카테고리"; ObjectID = "wje-mN-K96"; */
+"wje-mN-K96.text" = "전체 카테고리";
+
+/* Class = "UIButton"; normalTitle = "전체"; ObjectID = "xDj-fz-6eJ"; */
+"xDj-fz-6eJ.normalTitle" = "전체";
+
+/* Class = "UILabel"; text = "푸쉬알림설정"; ObjectID = "yAo-Y0-9Fn"; */
+"yAo-Y0-9Fn.text" = "푸쉬알림설정";
+
+/* Class = "UILabel"; text = "연구개발특구 대표 연구성과"; ObjectID = "yQ2-GJ-OUv"; */
+"yQ2-GJ-OUv.text" = "연구개발특구 대표 연구성과";
+
+/* Class = "UIButton"; normalTitle = "투어"; ObjectID = "yd1-Xf-FBo"; */
+"yd1-Xf-FBo.normalTitle" = "투어";
+
+/* Class = "UIButton"; normalTitle = " 누구나"; ObjectID = "zFX-wn-FzA"; */
+"zFX-wn-FzA.normalTitle" = " 누구나";
+
+/* Class = "UIButton"; normalTitle = "고등"; ObjectID = "zg5-jA-cm9"; */
+"zg5-jA-cm9.normalTitle" = "고등";
+
+/* Class = "UILabel"; text = "행사장소"; ObjectID = "zkf-8a-cPU"; */
+"zkf-8a-cPU.text" = "행사장소";
