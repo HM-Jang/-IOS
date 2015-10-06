@@ -187,6 +187,7 @@
 		8D61A63B1B7B0DFA00DA45B6 /* Nanum_Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Nanum_Bold.ttf; sourceTree = "<group>"; };
 		8D61A63C1B7B0DFA00DA45B6 /* Nanum.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Nanum.ttf; sourceTree = "<group>"; };
 		8D664CF91B7D82160033F71F /* CalendarDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalendarDelegate.swift; sourceTree = "<group>"; };
+		8D6E22E81BC3E89300EAC03A /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 		8D7117221B7F4F68000A526C /* LineView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LineView.swift; sourceTree = "<group>"; };
 		8D71172A1B8080D2000A526C /* EventMergeVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EventMergeVC.swift; sourceTree = "<group>"; };
 		8D71172D1B80A2BB000A526C /* EventListTableVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EventListTableVC.swift; sourceTree = "<group>"; };
@@ -592,6 +593,7 @@
 				8D8575321B72E40B00334F57 /* SubMenu */,
 				8DC012B91B661657000B3D0C /* Supporting Files */,
 				8D8575311B72E3FA00334F57 /* TabBar */,
+				8D6E22E81BC3E89300EAC03A /* MyPlayground.playground */,
 			);
 			name = "Science Talk Talk";
 			path = SCTT;
