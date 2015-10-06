@@ -20,6 +20,13 @@ let ssdate = format.stringFromDate(sdate!)
 var strArray = ssdate.componentsSeparatedByString("-")
 
 
+var testStr = "1234-12-12 12:12:12".componentsSeparatedByString(" ")
+
+var filter = "1/2/3/4/5/6"
+
+var arrFilter = filter.componentsSeparatedByString("/")
+
+
 let day = (strArray[2]).toInt()
 
 
@@ -40,5 +47,30 @@ if str.lowercaseString.hasPrefix("http://"){
     println("no")
 }
 
+var todayDate = NSDate()
 
-var nb : NMapView
+
+let date =  format.dateFromString("2015-08-14")
+
+date?.isEqualToDate(todayDate)
+
+
+let diff:NSTimeInterval = date!.timeIntervalSinceNow
+
+
+
+func > (left: NSDate, right:NSDate) -> Bool{
+    return left.compare(right) == NSComparisonResult.OrderedDescending
+}
+
+if todayDate > date!{
+    println("date는 지난 날짜")
+}else{
+    println("아직 안지남")
+}
+
+
+
+var dateArr = ssdate.componentsSeparatedByString("-")
+dateArr[0]
+
